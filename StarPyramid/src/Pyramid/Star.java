@@ -7,6 +7,7 @@ public class Star {
 		System.out.println("Hello");
 		System.out.println("Java");
 		System.out.println("Eclipse");
+		System.out.println("Hello");
 	}
 
 }
